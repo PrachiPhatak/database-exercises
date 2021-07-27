@@ -30,5 +30,5 @@ where artist = 'Whitney Houston';
 
 select *
 from albums
-where artist = 'Whitney Houston'/G;
+where artist = 'Whitney Houston';
 # ----------------------------------------------------------------------

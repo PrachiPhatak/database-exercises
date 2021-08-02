@@ -35,4 +35,3 @@ from dept_manager as dm
               on d.dept_no = dm.dept_no
 where dm.to_date = '9999-01-01' and s.to_date = '9999-01-01'
 order by dept_name;
-
